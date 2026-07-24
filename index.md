@@ -2,7 +2,7 @@
 layout: page
 title: MARL-Research
 ---
-[Applications]({{'/application/' | relative_url}})
+[Applications]({{'/application/'|relative_url}})
 
 <link type="text/css" rel="stylesheet" href="assets/css/style.css" />
 
