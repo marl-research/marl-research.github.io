@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Applications
-permalink: application
+permalink: /application/
 ---
 
 <link type="text/css" rel="stylesheet" href="assets/css/style.css" />
