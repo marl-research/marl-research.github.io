@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MARL-Research
+premalink: /
 ---
 [Applications]({{'/application/'|relative_url}})
 
