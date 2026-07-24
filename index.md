@@ -1,10 +1,9 @@
 ---
 layout: page
-title: MARL-Research
-premalink: /
+title: home
+
 ---
-[Openness]({{'/openness/'|relative_url}})
-[Applications]({{'/application/'|relative_url}})
+
 
 <link type="text/css" rel="stylesheet" href="assets/css/style.css" />
 
