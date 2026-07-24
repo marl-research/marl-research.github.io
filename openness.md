@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Openness
-permalink: /openness/
 ---
 
 <link type="text/css" rel="stylesheet" href="assets/css/style.css" />
