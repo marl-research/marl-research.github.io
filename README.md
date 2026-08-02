@@ -1,1 +1,1 @@
-# marl-research.github.io
+# Many-Agent Use Inspired Reinforcement Learning
