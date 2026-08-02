@@ -1,1 +1,1 @@
-# Many-Agent Use Inspired Reinforcement Learning
+# Use Inspired Many-Agent Reinforcement Learning
