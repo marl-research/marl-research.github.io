@@ -2,7 +2,7 @@ theme: minima
 #remote_theme: jekyll/minima
 #plugins:
 #  - jekyll-remote-theme
-title: Use Inspired Many-Agent Reinforcement Learning
+title: maUIRL
 description: Use Inspired Many-Agent Reinforcement Learning
 header_pages:
   - application.md
