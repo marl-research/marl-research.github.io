@@ -7,7 +7,7 @@ title: Use Inspired Many-Agent Reinforcement Learning
 
 <link type="text/css" rel="stylesheet" href="assets/css/style.css" />
 
-<img src="assets/assets/images/NSF_Official_logo_Med_Res_600ppi.png" style="width:25%; float:right; margin:5px;"/>  This project is a two-institution collaboration led by [Bikramjit Banerjee](https://sites.usm.edu/banerjee) of the University of Southern Mississippi and [Prashant Doshi](https://thinc.cs.uga.edu/) of the University of Georgia. Our work has been supported by two collaborative grants from the National Science Foundation: NSF [IIS-2530001](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2530001&HistoricalAwards=false) and [IIS-2530002](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2530002&HistoricalAwards=false), 
+<img src="assets/assets/images/NSF_Official_logo_Med_Res_600ppi.png" style="width:25%; float:right; margin:5px;"/>  This project is a two-institution collaboration led by [Bikramjit Banerjee](https://sites.usm.edu/banerjee) of the University of Southern Mississippi and [Prashant Doshi](https://thinc.cs.uga.edu/) of the University of Georgia. Our work has been supported by two collaborative grants from the National Science Foundation: NSF [IIS-2530001](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2530001&HistoricalAwards=false) and [IIS-2530002](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2530002&HistoricalAwards=false).
 
 <br/>
 <hr/>
