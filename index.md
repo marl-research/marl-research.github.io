@@ -1,6 +1,6 @@
 ---
 layout: page
-title: maUIRL
+title: Use Inspired Many-Agent Reinforcement Learning
 
 ---
 
